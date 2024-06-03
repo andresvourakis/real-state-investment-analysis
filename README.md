@@ -24,8 +24,7 @@ These houses were selected as undervalued because if bought for their "old" sale
 
 **Where to invest?** Roughly 20% of the undervalued houses can be found in the area "Gap of Rohan", therefore it is recommended as a good start where one can start investing.
 
-<img width="934" alt="Screenshot 2024-06-03 at 13 15 34" src="https://github.com/andresvourakis/real-state-investment-analysis/assets/168167023/9c63c639-3379-4484-9d83-87987c068cb0">
-
+<img width="952" alt="Screenshot 2024-06-03 at 14 28 40" src="https://github.com/andresvourakis/real-state-investment-analysis/assets/168167023/6952b341-f549-4edf-9b1b-3bbb6773c382">
 
 ## Next Steps
 
