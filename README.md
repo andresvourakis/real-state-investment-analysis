@@ -1,6 +1,9 @@
 Gmaug Real State Investment Opportunity Analysis
 ======
 
+## Summary
+A non-technical summary of this analysis (including the findings and recommendations) can be found [here](https://www.canva.com/design/DAGHEBAGt_4/pafVvY5jN2ot-SeVX_dmJA/view?utm_content=DAGHEBAGt_4&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+
 ## Objective
 Help Gmaug figure out **where to invest** in this booming market by **identifying "undervalued" properties** that he can buy, spruce up and sell for a profit.
 
